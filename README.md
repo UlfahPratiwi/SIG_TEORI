@@ -1,6 +1,6 @@
-#Project1
+# Project1
 
-##Langkah - Langkah Membuat MarkingMap
+## Langkah - Langkah Membuat MarkingMap
 1. Unduh dan ekstrak data Kit Mulai Cepat Natural Earth. Buka QGIS. Temukan folder mulai cepat Natural Earth di panel Browser. Luaskan folder untuk menemukan proyek Natural_Earth_quick_start_for_QGIS_v3. Ini adalah file proyek yang berisi lapisan bergaya dalam format Dokumen QGIS. Klik dua kali proyek untuk membukanya.
 
 2. Gunakan kontrol geser dan zoom di Bilah Alat Navigasi Peta dan perbesar ke Pulau Sumatera.
